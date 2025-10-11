@@ -7,6 +7,7 @@ public class Main {
         System.out.println("third commit");
         System.out.println("fetch commit");
         System.out.println("fetch-merge commit");
+        System.out.println("from local");
 
         
     }
