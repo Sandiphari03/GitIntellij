@@ -9,8 +9,10 @@ public class Main {
         System.out.println("fetch-merge commit");
         System.out.println("from local");
         System.out.println("git pull commit");
+        System.out.println("git merge commit-2");
 
 
-        
+
+
     }
 }
