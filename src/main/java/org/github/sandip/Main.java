@@ -11,8 +11,11 @@ public class Main {
         System.out.println("git pull commit");
         System.out.println("git merge commit-2");
 
+        System.out.println("git merge commit");
 
 
 
+
+        
     }
 }
