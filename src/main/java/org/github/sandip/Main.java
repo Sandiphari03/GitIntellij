@@ -12,6 +12,8 @@ public class Main {
         System.out.println("git merge commit-2");
 
         System.out.println("git merge commit");
+        System.out.println("My first user registration commit branch");
+
 
 
 
