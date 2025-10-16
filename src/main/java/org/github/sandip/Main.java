@@ -14,9 +14,9 @@ public class Main {
         System.out.println("git merge commit");
         System.out.println("My first user registration commit branch");
         System.out.println("My first patient registration commit branch");
-        for(int i=0;i<=10;i++){
-            System.out.println(i);
-        }
+       int a =10;
+        System.out.println(a);
+    }
 
 
 
