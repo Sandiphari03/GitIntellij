@@ -14,9 +14,11 @@ public class Main {
         System.out.println("git merge commit");
         System.out.println("My first user registration commit branch");
         System.out.println("My first patient registration commit branch");
-       int a =10;
-        System.out.println(a);
-    }
+       int a=10;
+        int b =100;
+        if(a==b){
+            System.out.println("both are equal");
+        }
 
 
 
