@@ -18,6 +18,8 @@ public class Main {
         int b =100;
         if(a==b){
             System.out.println("both are equal");
+        }else{
+            System.out.println("not equal");
         }
 
 
